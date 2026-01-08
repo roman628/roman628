@@ -54,10 +54,6 @@ Real-time speech-to-text, TTS, and voice conversion with GPU acceleration.
 
 **AI/ML**: Anthropic API, Whisper API, faster-whisper, GPU acceleration
 
-## 📊 GitHub Stats
-
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=c084fc&icon_color=f472b6&text_color=e8e8e8)
-
 ## 🎓 Education
 
 **James Madison University** - B.S. in Computer Science (2022-2025)
