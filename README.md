@@ -34,12 +34,12 @@ AI-powered automated trading platform with real-time market analysis and risk ma
 
 **Tech**: Python, AsyncIO, Anthropic API, Alpaca API
 
-### MindLoop
+### [MindLoop](https://github.com/roman628/Mindloop)
 Encrypted personal data manager with AES-256 encryption and modular MVC architecture (34 classes across 5 packages).
 
 **Tech**: Java, Swing, AES Encryption
 
-### Audio Processing Toolkit
+### [Audio Processing Tools](https://github.com/roman628/audio-processing-tools)
 Real-time speech-to-text, TTS, and voice conversion with GPU acceleration.
 
 **Tech**: Python, Whisper API, PyAudio, Multithreading
