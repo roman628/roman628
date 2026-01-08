@@ -6,7 +6,7 @@ I build practical tools that solve real problems—from AI-powered trading syste
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio**: [romanrossi.com](https://roman628.github.io/romanrossi/)
+- 🌐 **Portfolio**: [roman628.github.io/romanrossi](https://roman628.github.io/romanrossi/)
 - 💼 **LinkedIn**: [linkedin.com/in/roman-f-rossi](https://linkedin.com/in/roman-f-rossi)
 - 📧 **Email**: roman628@outlook.com
 - 📱 **Phone**: (703) 674-9403
